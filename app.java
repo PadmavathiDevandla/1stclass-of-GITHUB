@@ -12,3 +12,4 @@ public class AddTwoIntegers {
        System.out.println("The sum is: " + sum);
    }
 }
+#added new code for merge conflicts
