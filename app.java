@@ -1,15 +1,13 @@
-public class Main {
+public class 
    public static void main(String[] args) {
        System.out.println("Hello World");
    }
 }
 #adding new code
-public class AddTwoIntegers {
-   public static void main(String[] args) {
-       int first = 10;
-       int second = 20;
-       int sum = first + second;
-       System.out.println("The sum is: " + sum);
-   }
-}
-#added new code for merge conflicts
+public class AddTwoIntegers {:
+       int first = 1
+       System.out.println("The sum is: " + sum); }
+
+adding new code without pulling from remote repo
+
+>>>>>>> Stashed changes
